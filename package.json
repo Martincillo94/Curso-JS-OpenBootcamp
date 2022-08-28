@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 del curso",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martincillo94/Curso-JS-OpenBootcamp.git"
+  },
+  "keywords": [
+    "PrimerProyecto"
+  ],
+  "author": "Martin Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martincillo94/Curso-JS-OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/Martincillo94/Curso-JS-OpenBootcamp#readme"
+}
